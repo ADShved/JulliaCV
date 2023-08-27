@@ -706,7 +706,7 @@ button {
   transform: translateY(50%);
 }
 .facts .subtitle {
-  font-size: 64px;
+  font-size: 4em;
   font-weight: 700;
 }
 a {
@@ -1271,7 +1271,7 @@ input:focus, textarea:focus {
   }
 
   .facts__quantity {
-    font-size: 56px;
+    font-size: 2em;
   }
 
   .languages__list {
@@ -1314,7 +1314,7 @@ input:focus, textarea:focus {
   }
 
   .facts__quantity {
-    font-size: 48px;
+    font-size: 2em;
   }
 
   .facts__desc,
@@ -1347,7 +1347,6 @@ input:focus, textarea:focus {
   .languages__list,
   .facts__list {
     display: block;
-    columns: 2;
   }
 
   .facts__desc {
